@@ -2,11 +2,10 @@
 
 <details open> <summary><strong>🇹🇷 Türkçe</strong></summary> <br>
 
-Bu alan, **kovan ** projesinin yaşayan dokümantasyon merkezidir. Projenin mimarisi, tasarım kararları ve uzun vadeli bilgileri burada yer alacaktır.
+Bu alan, **kovan** projesinin yaşayan dokümantasyon merkezidir. Projenin mimarisi, tasarım kararları ve uzun vadeli bilgileri burada yer alacaktır.
 
-
-👤 **Proje Lideri:** @${project_lead}
-
+👤 **Proje Lideri:** @hakanceran64  
+👥 **Takım:** [{{TEAM_NAME}}](https://github.com/orgs/{{GITHUB_ORG}}/teams/{{TEAM_NAME}})
 ---
 
 ### 📝 Wiki'yi Kullanma Rehberi
@@ -33,10 +32,12 @@ Bu Wiki, `README.md` dosyasını tamamlayıcı niteliktedir. `README.md` projeni
 
 <details> <summary><strong>🇬🇧 English</strong></summary> <br>
 
-This is the living documentation hub for the **kovan ** project. The project's architecture, design decisions, and long-term information will reside here.
+
+This is the living documentation hub for the **kovan** project. The project's architecture, design decisions, and long-term information will reside here.
 
 
-👤 **Project Lead:** @${project_lead}
+👤 **Project Lead:** @hakanceran64  
+👥 **Team:** [{{TEAM_NAME}}](https://github.com/orgs/{{GITHUB_ORG}}/teams/{{TEAM_NAME}})
 
 ---
 
