@@ -1,13 +1,18 @@
-# InfraCoders Takımı ve Rolleri
-
+# Kovan Takımı ve Rolleri
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
-
 <br>
-
 Bu projedeki güncel ekip üyelerini ve rollerini görmek için lütfen GitHub'ın kendi takım sayfasını ziyaret edin. Oradaki liste **her zaman günceldir**.
+### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/Kovan)
+---
+## 📊 Takım İstatistikleri
 
-### ➡️ [Güncel Takım Listesi İçin Tıkla](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
+- **Proje Adı:** kovan
+- **Takım Adı:** Kovan
+- **Proje Lideri:** @hakanceran64
+- **Toplam Üye Sayısı:** 5
+- **Maintainer Sayısı:** 1
+- **Member Sayısı:** 4
 
 ---
 
@@ -39,7 +44,18 @@ Bu dokümanın amacı ise projedeki rolleri ve sorumlulukları tanımlamaktır.
 
 To see the current members and roles of this project, please visit the official GitHub Team page. The list there is **always up-to-date**.
 
-### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/InfraCoders)
+### ➡️ [Click Here for the Current Team List](https://github.com/orgs/BKT-DevOps/teams/Kovan)
+
+---
+
+## 📊 Team Statistics
+
+- **Project Name:** kovan
+- **Team Name:** Kovan
+- **Project Lead:** @hakanceran64
+- **Total Members:** 5
+- **Maintainers:** 1
+- **Members:** 4
 
 ---
 
