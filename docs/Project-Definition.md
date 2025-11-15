@@ -1,11 +1,11 @@
-# Kovan Project - Proje Tanımı / Project Definition
+# Infrastructure as Code Project - Proje Tanımı / Project Definition
 
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
 
 <br>
 
-Bu belge **Kovan Project** projesinin amacını, hedeflerini ve kapsamını tanımlar.
+Bu belge **Infrastructure as Code Project** projesinin amacını, hedeflerini ve kapsamını tanımlar.
 
 ---
 
@@ -37,7 +37,7 @@ Bu belge **Kovan Project** projesinin amacını, hedeflerini ve kapsamını tan�
 
 ## 👥 Proje Ekibi
 
-**Proje Lideri:** @hakanceran64
+**Proje Lideri:** @flovearth
 
 **Takım Üyeleri:**
 <!-- Takım üyelerini buraya ekleyin -->
@@ -59,7 +59,7 @@ Bu belge **Kovan Project** projesinin amacını, hedeflerini ve kapsamını tan�
 
 <br>
 
-This document defines the purpose, goals, and scope of **Kovan Project** project.
+This document defines the purpose, goals, and scope of **Infrastructure as Code Project** project.
 
 ---
 
@@ -91,7 +91,7 @@ This document defines the purpose, goals, and scope of **Kovan Project** project
 
 ## 👥 Project Team
 
-**Project Lead:** @hakanceran64
+**Project Lead:** @flovearth
 
 **Team Members:**
 <!-- Add team members here -->
