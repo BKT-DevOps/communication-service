@@ -1,11 +1,11 @@
-# Kovan Project Projesi Wiki'sine Hoş Geldiniz
+# Kovan Project Projesi Wiki'sine Hoş Geldiniz (Örnek)
 
 <details open> <summary><strong>🇹🇷 Türkçe</strong></summary> <br>
 
 Bu alan, **Kovan Project** projesinin yaşayan dokümantasyon merkezidir. Projenin mimarisi, tasarım kararları ve uzun vadeli bilgileri burada yer alacaktır.
 
 👤 **Proje Lideri:** @hakanceran64  
-👥 **Takım:** [Kovan](https://github.com/orgs/BKT-DevOps/teams/Kovan)
+👥 **Takım:** Kovan[(https://github.com/orgs/BKT-DevOps/teams/"Kovan")]
 ---
 
 ### 📝 Wiki'yi Kullanma Rehberi
