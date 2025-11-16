@@ -1,4 +1,4 @@
-# Infrastructure as Code Project - Proje Tanımı / Project Definition
+# Proje Tanımı (Örnek)
 
 <details open>
 <summary><strong>🇹🇷 Türkçe</strong></summary>
