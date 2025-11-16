@@ -1,4 +1,4 @@
-# communication-service (Örnek)
+# Kovan Project (Örnek)
 
 <div align="center">
 
