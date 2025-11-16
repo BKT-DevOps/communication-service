@@ -37,7 +37,7 @@ Bu belge **Infrastructure as Code Project** projesinin amacını, hedeflerini ve
 
 ## 👥 Proje Ekibi
 
-**Proje Lideri:** @flovearth
+**Proje Lideri:** @hakanceran64  
 
 **Takım Üyeleri:**
 <!-- Takım üyelerini buraya ekleyin -->
@@ -91,7 +91,7 @@ This document defines the purpose, goals, and scope of **Infrastructure as Code 
 
 ## 👥 Project Team
 
-**Project Lead:** @flovearth
+**Project Lead:** @hakanceran64  
 
 **Team Members:**
 <!-- Add team members here -->
